@@ -11,6 +11,7 @@
 * Add unicode prime symbols to math mode. (prime, double prime, triple prime, quadruple prime)
 * Fix to work on wlroots>=0.17.1 (Sway 1.9) [#664](https://github.com/Riey/kime/issues/664)
 * Add wayland zwp_input_method_v1 support **[@Jhyub]**
+* Fix build with Clang 18. **[@jayong93]** [#675](https://github.com/Riey/kime/issues/675)
 
 ## 3.0.2
 
